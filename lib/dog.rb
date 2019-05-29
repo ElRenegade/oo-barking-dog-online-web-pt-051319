@@ -6,6 +6,6 @@ class Dog
     @new_dog
   end
   def bark
-    puts "Woof!"
+    puts "woof!"
   end
 end
